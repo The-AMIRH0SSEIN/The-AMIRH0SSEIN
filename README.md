@@ -10,12 +10,12 @@ Here are some of the fields and technologies I specialize in:
 
 ### 🎯 Artificial Intelligence (AI)
 - Deep Learning and Neural Networks
-- convolutional neural network
+- Machine Learning
 - Frameworks:  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ### 👁️ Computer Vision
 - Image Processing and Object Detection
-- Machine Learning for Image Classification
+- Convolutional neural network for Image Classification
 - Libraries:  
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
