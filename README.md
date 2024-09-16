@@ -1,4 +1,4 @@
-# 👋 Hello everyone, I'm Amirhossein
+# Hello everyone, I'm Amirhossein
 
 Welcome to my GitHub profile! I'm an AI and microcontroller enthusiast.My passion lies in creating intelligent systems that can interact with the physical world.
 
